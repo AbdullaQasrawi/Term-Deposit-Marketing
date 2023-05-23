@@ -22,5 +22,5 @@ The machine learning algorithm used in this project is Random Forest Classifier.
 The performance of the model is evaluated using the classification report and confusion matrix. The classification report provides the precision, recall, and F1 score of the model. The confusion matrix provides a visual representation of the true positive, false positive, true negative, and false negative predictions made by the model.  
 
 ## Conclusion  
-In this project, we leveraged the power of machine learning and employed the random forest algorithm to construct a robust and highly accurate ML classifier. Our primary objective was to predict if a customer subscribe to a term deposit, and we achieved an impressive accuracy rate of 88%.
+In this project, we leveraged the power of machine learning and employed the random forest algorithm to construct a robust and highly accurate ML classifier. Our primary objective was to predict if a customer subscribe to a term deposit, and we achieved an impressive accuracy rate of 93%.
 
