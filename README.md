@@ -1,4 +1,5 @@
 # Term-Deposit-Marketing  
+## Introduction  
 This project is focused on predicting the **customers who are more likely to buy an investment product** by applying machine learning algorithms on the given data. The data contains information about the customers and their investment behavior. The problem is framed as a **binary classification problem** where the target variable 'y' is either 'yes' or 'no'.  
 ## Dataset  
 The first step in the project is to preprocess the data. The data is read into a pandas dataframe and any 'unknown' values in the data are replaced with 'nan' values. The data are highly skewed so i try to keep the values of class 'yes' which is limited  then i all nans thet corespond with class nor removed while nans that corespond with class yes are filled with most frequent value within its class.  
